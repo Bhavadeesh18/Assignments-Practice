@@ -1,0 +1,6 @@
+D:\Assignments-Practice\Practice Assignment-2-Day4\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.dll
+D:\Assignments-Practice\Practice Assignment-2-Day4\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+D:\Assignments-Practice\Practice Assignment-2-Day4\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.AssemblyReference.cache
+D:\Assignments-Practice\Practice Assignment-2-Day4\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+D:\Assignments-Practice\Practice Assignment-2-Day4\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.dll
+D:\Assignments-Practice\Practice Assignment-2-Day4\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb

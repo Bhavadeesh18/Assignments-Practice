@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Assignments-Practice\\Practice Assignment-2-Day4\\LibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8063B6-C498-492B-AC79-441E4B83C934}|LibraryManagementSystem.Tests\\LibraryManagementSystem.Tests.csproj|d:\\assignments-practice\\practice assignment-2-day4\\librarymanagementsystem\\librarymanagementsystem.tests\\libraraytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8063B6-C498-492B-AC79-441E4B83C934}|LibraryManagementSystem.Tests\\LibraryManagementSystem.Tests.csproj|solutionrelative:librarymanagementsystem.tests\\libraraytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80604D64-E089-4A66-84A0-750245CF64DC}|LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\assignments-practice\\practice assignment-2-day4\\librarymanagementsystem\\librarymanagementsystem\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80604D64-E089-4A66-84A0-750245CF64DC}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80604D64-E089-4A66-84A0-750245CF64DC}|LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\assignments-practice\\practice assignment-2-day4\\librarymanagementsystem\\librarymanagementsystem\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80604D64-E089-4A66-84A0-750245CF64DC}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80604D64-E089-4A66-84A0-750245CF64DC}|LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\assignments-practice\\practice assignment-2-day4\\librarymanagementsystem\\librarymanagementsystem\\borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80604D64-E089-4A66-84A0-750245CF64DC}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibrarayTests.cs",
+              "DocumentMoniker": "D:\\Assignments-Practice\\Practice Assignment-2-Day4\\LibraryManagementSystem\\LibraryManagementSystem.Tests\\LibrarayTests.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem.Tests\\LibrarayTests.cs",
+              "ToolTip": "D:\\Assignments-Practice\\Practice Assignment-2-Day4\\LibraryManagementSystem\\LibraryManagementSystem.Tests\\LibrarayTests.cs",
+              "RelativeToolTip": "LibraryManagementSystem.Tests\\LibrarayTests.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAIAwwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T04:31:23.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Library.cs",
+              "DocumentMoniker": "D:\\Assignments-Practice\\Practice Assignment-2-Day4\\LibraryManagementSystem\\LibraryManagementSystem\\Library.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Library.cs",
+              "ToolTip": "D:\\Assignments-Practice\\Practice Assignment-2-Day4\\LibraryManagementSystem\\LibraryManagementSystem\\Library.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Library.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T03:50:48.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Borrower.cs",
+              "DocumentMoniker": "D:\\Assignments-Practice\\Practice Assignment-2-Day4\\LibraryManagementSystem\\LibraryManagementSystem\\Borrower.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Borrower.cs",
+              "ToolTip": "D:\\Assignments-Practice\\Practice Assignment-2-Day4\\LibraryManagementSystem\\LibraryManagementSystem\\Borrower.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Borrower.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T03:49:50.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Assignments-Practice\\Practice Assignment-2-Day4\\LibraryManagementSystem\\LibraryManagementSystem\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Book.cs",
+              "ToolTip": "D:\\Assignments-Practice\\Practice Assignment-2-Day4\\LibraryManagementSystem\\LibraryManagementSystem\\Book.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T03:49:09.308Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
